@@ -1,2 +1,5 @@
 # hello-world
-Just another repository 
+
+Hi!
+
+I'm Ayaan, a 2nd year Geography student. 
